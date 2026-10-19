@@ -1,0 +1,2 @@
+# This project intentionally has no third-party runtime dependencies.
+# Python 3.11 standard library is the complete locked dependency set.
